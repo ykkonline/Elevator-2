@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(34,34): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(81): warning C4715: 'ChangeFloor': not all control paths return a value
+  Elevator.vcxproj -> C:\Users\tonbe\source\repos\Elevator\Debug\Elevator.exe
